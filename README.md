@@ -44,7 +44,7 @@ The system includes:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/hands-off-detector.git
+git clone https://github.com/khaledbouabdallah/Clothes-Chewing-Detection.git
 cd hands-off-detector
 
 # Install dependencies
@@ -89,4 +89,4 @@ MIT
 
 ## Connect
 
-If you found this project interesting, connect with me on [LinkedIn](https://linkedin.com/in/yourusername).
+If you found this project interesting, connect with me on [LinkedIn](https://github.com/khaledbouabdallah).
